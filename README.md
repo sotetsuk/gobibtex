@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sotetsuk/gobibtex.svg?branch=master)](https://travis-ci.org/sotetsuk/gobibtex)
+
 # gobibtex
 BibTeX parser written in Go
 
