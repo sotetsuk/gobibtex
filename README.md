@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/sotetsuk/gobibtex.svg?branch=master)](https://travis-ci.org/sotetsuk/gobibtex)
+[![Coverage Status](https://coveralls.io/repos/github/sotetsuk/gobibtex/badge.svg?branch=master)](https://coveralls.io/github/sotetsuk/gobibtex?branch=master)
 
 # gobibtex
 BibTeX parser written in Go
