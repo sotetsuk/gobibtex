@@ -1,6 +1,7 @@
 [![GoDoc](https://godoc.org/github.com/sotetsuk/gobibtex?status.svg)](https://godoc.org/github.com/sotetsuk/gobibtex)
 [![Build Status](https://travis-ci.org/sotetsuk/gobibtex.svg?branch=master)](https://travis-ci.org/sotetsuk/gobibtex)
 [![Coverage Status](https://coveralls.io/repos/github/sotetsuk/gobibtex/badge.svg?branch=master)](https://coveralls.io/github/sotetsuk/gobibtex?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/sotetsuk/gobibtex)](https://goreportcard.com/report/github.com/sotetsuk/gobibtex)
 [![GitHub version](https://badge.fury.io/gh/sotetsuk%2Fgobibtex.svg)](https://badge.fury.io/gh/sotetsuk%2Fgobibtex)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
 
